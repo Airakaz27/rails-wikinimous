@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+body {
+  
+}
+
+a {
+  text-decoration: none !important;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-family: "Roboto Slab";
+  font-weight: 400;
+}
